@@ -86,3 +86,5 @@ $(".btnn2").click(function() {
         alert("plese enter password")
     }
 });
+
+//jquery index 7 ->
